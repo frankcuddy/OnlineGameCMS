@@ -1,0 +1,346 @@
+.clear {clear:both}
+
+.mabp_error {
+  background-color: #FEEDE9;
+  border: 1px solid #DD897F;
+  margin: 10px 0 5px 0;
+  padding: 5px 5px 5px 10px;
+  text-align: left;
+  border-radius:5px;
+  -moz-border-radius:5px;
+  -webkit-border-radius:5px;
+}
+
+.mabp_info {
+  background: #FFFFE0;
+  border: 1px solid #E6DB55;
+  padding: 5px 5px 5px 10px;
+  text-align: left;
+  border-radius:5px;
+  -moz-border-radius:5px;
+  -webkit-border-radius:5px;
+  margin: 5px 0 5px 0;
+}
+
+.mabp_800 { width: 785px; }
+.mabp_680 { width: 685px; }
+
+.gload {
+  background: url('../images/loading.gif') no-repeat;
+  height: 16px;
+  width: 16px;
+}
+
+.show_game {
+  margin: 0px 0px 10px 0px;
+  padding: 0;
+  border: 1px solid #d6d6d6;
+  background-color: #f0f0f0;
+  overflow: hidden;
+  font-size: 1.2em;
+  width: 700px;
+  clear: both;
+  border-radius: 6px;
+  -moz-border-radius: 6px;
+  -khtml-border-radius: 6px;
+  -webkit-border-radius: 6px;
+}
+.show_game .block {
+  padding: 5px 5px 0 5px;
+  background-color: #f0f0f0;
+}
+
+.show_game .block p {
+  padding: 5px 0;
+  margin: 5px 0;
+}
+
+.show_game h3 {
+  font: 2.0em normal Georgia, "Times New Roman", Times, serif;
+  margin: 5px 0px;
+  padding: 0 0 0 0;
+  border-bottom: 1px dashed #ccc;
+}
+
+.show_game img {
+  border: 1px solid #d6d6d6;
+  padding: 5px;
+  border-radius: 6px;
+  -moz-border-radius: 6px;
+  -khtml-border-radius: 6px;
+  -webkit-border-radius: 6px;
+}
+
+.show_game small { font-style: italic; font-weight: normal; font-size: 0.5em; }
+
+.myhelp {
+  float:left;
+  cursor:pointer;
+  height: 16px;
+  width: 16px;
+  margin: 0 5px 0 0;
+}
+
+.myhelp span.myinfo{
+  display:none;
+}
+
+.myhelp:hover span.myinfo {
+  display:block;
+  position:absolute;
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color: #ffebe8;
+  border: 2px dotted #c00;
+  padding: 5px;
+  z-index: 10;
+}
+
+.myhelp img { border:none; }
+
+.myarcade_border {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #D7D7D7;
+  border-radius:5px;
+  -moz-border-radius:5px;
+  -webkit-border-radius:5px;
+}
+
+.grey { background: #F9F9F9; }
+.white {background: #FFFFFF;}
+
+.myarcade_form .bulk-delete {
+  float: right;
+  margin-right: 15px;
+}
+
+.myarcade_form textarea { margin-bottom: 0px !important; padding: 6px; }
+.myarcade_form input:focus, .myarcade_form textarea:focus {border:1px solid #CCCCCC; background-color: #F9F9F9;}
+.myarcade_form input:focus[readonly], .myarcade_form select:focus[readonly], .myarcade_form select:focus[disabled], .myarcade_form textarea:focus[readonly] {color:#AAAAAA; background-color:#EEEEEE; }
+.myarcade_form input:focus, .myarcade_form textarea:focus {border:1px solid #CCCCCC; background-color: #F9F9F9;}
+.myarcade_form input[type="number"] {width:70px}
+
+/* Settings Page */
+#myarcade_settings { width: 800px; }
+#myarcade_settings h2.trigger { cursor: pointer; color: #fff; padding: 0 0 0 50px; margin: 0 0 5px 0; background: url(../images/h2_trigger_a.gif) no-repeat; height: 46px; line-height: 46px; width: 750px; float: left; }
+#myarcade_settings h2.trigger a { color: #fff; text-decoration: none; display: block; }
+#myarcade_settings h2.trigger hover { color: #ccc; }
+#myarcade_settings h2.active { background-position: left bottom; }
+#myarcade_settings .toggle_container { margin: 0px 0px 10px 0px; padding: 0; border-top: 1px solid #d6d6d6; background: #f0f0f0 url(../images/toggle_block_stretch.gif) repeat-y left top; overflow: hidden; width: 800px; clear: both; }
+#myarcade_settings .toggle_container .block { padding: 20px; background: url(../images/toggle_block_btm.gif) no-repeat left bottom; }
+#myarcade_settings .toggle_container .block p { padding: 5px 0; margin: 5px 0; }
+#myarcade_settings .toggle_container h3 { margin: 10px 0 5px 0; padding-bottom: 5px; border-bottom: 1px dashed #ccc; }
+#myarcade_settings .toggle_container h4 {margin: 0; }
+#myarcade_settings .toggle_container small { width: 100%; margin: 3px 0px; padding: 0px; }
+
+.remove_map { float: left; margin-right: 10px; }
+.remove_map img { cursor: pointer; }
+
+#myabp_import {
+  margin-left: 5px;
+}
+
+#myabp_import .container {
+  margin: 0px 0px 10px 0px;
+  padding: 0;
+  border: 1px solid #d6d6d6;
+  background-color: #f0f0f0;
+  overflow: hidden;
+  font-size: 1.2em;
+  width: 700px;
+  clear: both;
+}
+
+#myabp_import .container .block { padding: 20px; background-color: #f0f0f0; }
+#myabp_import .container .block p { padding: 5px 0; margin: 5px 0; }
+#myabp_import .container h3 {
+  font: 2.0em normal Georgia, "Times New Roman", Times, serif;
+  margin: 5px 0px;
+  padding: 0 0 0 0;
+  border-bottom: 1px dashed #ccc;
+}
+#myabp_import .container small { font-style: italic; font-weight: normal; font-size: 0.5em; }
+#myabp_import h2.box {
+  padding: 0 0 0 10px;
+  margin: 0 0 5px 0;
+  background-color: #4C4C4C;
+  height: 46px;
+  line-height: 46px;
+  width: 692px;
+  font-size: 2em;
+  font-weight: normal;
+  color: #fff;
+ }
+
+.myarcade_hr { height:2px; border-top:1px solid #D7D7D7; }
+
+/* admin dashboard section */
+.dash-left {float:left;width:49%;padding-right: 1%;}
+.dash-right {float:left;width:49%;padding-right: 0.5%;}
+.postbox .statsico{float:left; height:25px; width:30px; background: url('../images/chart.png') transparent no-repeat scroll 6px 4px}
+.postbox .newsico{float:left; height:25px; width:30px; background: url('../images/news.png') transparent no-repeat scroll 6px 4px}
+.postbox .facebookico{float:left; height:25px; width:30px; background: url('../images/facebook.png') transparent no-repeat scroll 6px 4px}
+.postbox .dollarico{float:left; height:25px; width:30px; background: url('../images/dollar.png') transparent no-repeat scroll 6px 4px}
+.postbox .joystickico{float:left; height:25px; width:30px; background: url('../images/joystick.png') transparent no-repeat scroll 6px 4px}
+#boxy {margin: 10px;}
+
+.g-features span {display: inline-block; height: 24px; width: 24px;background-image: url(../images/feature_icons.png); background-repeat: no-repeat; position:relative; z-index:2;}
+.achieve_disabled {background-position: 0 -24px;}
+.lb_disabled{background-position: -70px -24px;}
+.poi_disabled{background-position: -22px -24px;}
+.achieve_enabled {background-position: 0 0;}
+.lb_enabled {background-position: -70px 0;}
+.poi_enabled {background-position: -22px 0;}
+
+/** Write panel **/
+#myarcade-game-data ul.myarcade_data_tabs {
+  background:#ececec;
+  padding:7px 9px 0;
+  margin:0;
+  overflow:hidden;
+  zoom:1;
+  line-height:1em;
+}
+#myarcade-game-data ul.myarcade_data_tabs li{
+  float:left;
+  padding:0;
+  margin:0 5px 0 0;
+}
+#myarcade-game-data ul.myarcade_data_tabs li a{
+  padding:0;
+  margin:0;
+  border:0;
+  border:1px solid #d5d5d5;
+  border-bottom:0;
+  float:left;
+  padding:9px 9px;
+  background:#e1e1e1;
+  text-decoration:none;
+  color:#555;
+  -moz-border-radius-topleft:3px;
+  -moz-border-radius-topright:3px;
+  -webkit-border-top-left-radius:3px;
+  -webkit-border-top-right-radius:3px;
+  border-top-left-radius:3px;
+  border-top-right-radius:3px;
+ }
+#myarcade-game-data ul.myarcade_data_tabs li.active a{
+  background:#f8f8f8;
+  border-color:#e1e1e1;
+  color:#333;
+  background-image:linear-gradient(bottom, #ffffff 0%, #f8f8f8 100%);
+  background-image:-o-linear-gradient(bottom, #ffffff 0%, #f8f8f8 100%);
+  background-image:-moz-linear-gradient(bottom, #ffffff 0%, #f8f8f8 100%);
+  background-image:-webkit-linear-gradient(bottom, #ffffff 0%, #f8f8f8 100%);
+  background-image:-ms-linear-gradient(bottom, #ffffff 0%, #f8f8f8 100%);
+  background-image:-webkit-gradient(linear, left bottom, left top, color-stop(0, #ffffff), color-stop(1, #f8f8f8));
+ }
+
+.myarcade_game_panel, .panel{padding:9px 9px 9px 9px;color:#555;}
+.myarcade_game_panel p{overflow:hidden;zoom:1;margin:0 0 9px;font-size:12px;padding:5px 9px;line-height:24px;}
+.myarcade_game_panel p{margin:9px 0 9px;}
+.myarcade_game_panel label{float:left;width:150px;padding:0;}
+.myarcade_game_panel label .req{font-weight:bold;font-style:normal;color:red;}
+.myarcade_game_panel .description{padding:0;margin:0 0 0 7px;}
+.myarcade_game_panel .description-block{margin-left:0;display:block;}
+.myarcade_game_panel input,.myarcade_game_panel select{margin:0;}
+.myarcade_game_panel textarea#mabp_swf_url { width: 50%; }
+.myarcade_game_panel input{width:50%;float:left;}
+.myarcade_game_panel input.button{width:auto;margin-left:8px;}
+.myarcade_game_panel .checkbox {vertical-align:middle;margin:7px 0;width:auto;}
+.myarcade_game_panel select{float:left;}
+.myarcade_game_panel .short{width:20%;}
+.myarcade_game_panel .sized{width:auto !important;margin-right:6px;}
+.myarcade_game_panel .options_group{border-top:1px solid white;border-bottom:1px solid #DFDFDF;}
+
+#myarcade-gamelist li {
+  width:  690px;
+  border: 1px solid #ccc;
+  padding: 5px;
+  border-radius: 5px;
+  -moz-border-radius:5px;
+  -webkit-border-radius:5px;
+}
+
+.myarcade_message {
+  background: #fff;
+  border-left: 4px solid #fff;
+  -webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+  box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+  margin: 5px 0;
+  padding: 10px 15px;
+}
+.myarcade_notice {border-color: #7ad03a}
+.myarcade_error {border-color: #dd3d36}
+
+/** STATS */
+
+/* Meta boxes */
+#myarcade-postbox-container-1 {
+  width: 30%;
+  float: left;
+}
+#myarcade-postbox-container-2 {
+  margin: 0 0 0 1%;
+  width: 68%;
+  float: right;
+}
+
+@media screen and (max-width: 960px) {
+  #myarcade-postbox-container-1 {
+    width: 35%;
+  }
+
+  #myarcade-postbox-container-2 {
+    margin: 0 0 0 1%;
+    width: 63%;
+  }
+}
+
+@media screen and (max-width: 758px) {
+  #myarcade-postbox-container-1 {
+    width: 100%;
+  }
+
+  #myarcade-postbox-container-2 {
+    margin: 0 0 0 1%;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 524px) {
+  #myarcade-postbox-container-1 {
+    width: 100%;
+  }
+
+  #myarcade-postbox-container-2 {
+    margin: 0 0 0 1%;
+    width: 100%;
+  }
+}
+
+.myarcade-table-stats {
+  background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+  border: 1px none;
+  margin: 0 0 10px;
+}
+.myarcade-table-stats tr:first-child th {
+    border-top: 0 none;
+}
+.myarcade-table-stats span {
+    color: #21759B !important;
+    font-family: Georgia, "Times New Roman", "Bitstream Charter", Times, serif;
+    font-size: 21px;
+}
+.myarcade-table-stats .th-center {
+  text-align: center !important;
+}
+
+.ui-sortable {
+  min-height: 100px;
+}
+.ui-sortable-handle {
+  -ms-touch-action: none;
+  touch-action: none;
+}

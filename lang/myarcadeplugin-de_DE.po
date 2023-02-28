@@ -1,0 +1,1551 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MyArcadePlugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-27 18:52+0100\n"
+"PO-Revision-Date: 2011-11-27 19:00+0100\n"
+"Last-Translator: MyArcadePlugin <contact@myarcadeplugin.com>\n"
+"Language-Team:  <contact@myarcadeplugin.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: Z:\\wp-content\\plugins\\myarcadeplugin\n"
+
+#: Z:\wp-content\plugins\myarcadeplugin/modules/cubepoints.php:16
+msgid "Points for playing games"
+msgstr "Punkte für das Spielen"
+
+#: Z:\wp-content\plugins\myarcadeplugin/modules/cubepoints.php:22
+msgid "Do not add points for game plays"
+msgstr "Keine Punkte für das Spielen"
+
+#: Z:\wp-content\plugins\myarcadeplugin/modules/cubepoints.php:28
+msgid "Points for submitting scores"
+msgstr "Punkte beim speichen von Scores"
+
+#: Z:\wp-content\plugins\myarcadeplugin/modules/cubepoints.php:34
+msgid "Do not add points for score submittes"
+msgstr "Keine Punkte für Scores"
+
+#: Z:\wp-content\plugins\myarcadeplugin/modules/cubepoints.php:40
+msgid "Points for getting highscore"
+msgstr "Punkte beim erreichen des Highscores"
+
+#: Z:\wp-content\plugins\myarcadeplugin/modules/cubepoints.php:46
+msgid "Do not add points when user gets highscore on a game"
+msgstr "Keine Punkte für Highscores"
+
+#: Z:\wp-content\plugins\myarcadeplugin/modules/cubepoints.php:52
+msgid "Points for winning a challange"
+msgstr "Punkte für das Gewinnen von Kämpfen"
+
+#: Z:\wp-content\plugins\myarcadeplugin/modules/cubepoints.php:58
+msgid "Do not add points when user wins a challange"
+msgstr "Keine Punkte für Kämpfe"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/import_handler.php:16
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini."
+msgstr "Die hochgeladene Datei überschreitet die Grenze für 'upload_max_filesize'. Diese ist in der  php.ini definiert."
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/import_handler.php:17
+msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form."
+msgstr "Die hochgeladene Datei überschreitet die Grenze für 'MAX_FILE_SIZE'. Diese ist in der php.ini definiert."
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/import_handler.php:18
+msgid "The uploaded file was only partially uploaded."
+msgstr "Die Datei wurde nur teilweise hochgeladen."
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/import_handler.php:19
+msgid "No file was uploaded."
+msgstr "Datei wurde nicht hochgeladen."
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/import_handler.php:21
+msgid "Missing a temporary folder."
+msgstr "Temporäres Verzeichnis für Uploads wurde nicht gefunden."
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/import_handler.php:22
+msgid "Failed to write file to disk."
+msgstr "Datei konnte nicht gespeichert werden."
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/import_handler.php:23
+msgid "File upload stopped by extension."
+msgstr "Das Hochladen wurde wegen fehlerhafter Dateierweiterung abgebrochen."
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_manage.php:25
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_manage.php:26
+msgid "Leaderboard enabled"
+msgstr "Score System vorhanden"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_manage.php:30
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_manage.php:31
+msgid "Coin revenue share enabled"
+msgstr "Einnahmenbeteiligung eingeschaltet"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_manage.php:38
+msgid "Publish"
+msgstr "Veröffentlichen"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_manage.php:39
+msgid "Delete"
+msgstr "Löschen"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_manage.php:41
+msgid "Remove this game from the database"
+msgstr "Entferne dieses Spiel aus der Datenbank"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_manage.php:49
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_manage.php:89
+msgid "Play"
+msgstr "Spielen"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_manage.php:131
+msgid "Manage Games"
+msgstr "Spiele Bearbeiten"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_manage.php:136
+msgid "Search term was not entered!"
+msgstr "Es wurde kein Suchbegriff eingegeben!"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_manage.php:218
+#, php-format
+msgid "Nothing found for %s"
+msgstr "Nichts gefunden für %s"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_manage.php:227
+msgid "Search for"
+msgstr "Suchen"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_manage.php:233
+msgid "Game Type"
+msgstr "Spiele-Typ"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_manage.php:250
+msgid "Leaderboard Enabled"
+msgstr "Score System"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_manage.php:252
+msgid "Coins Enabled"
+msgstr "Einnahmenbeteiligung"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_manage.php:259
+msgid "Game Status"
+msgstr "Status"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_manage.php:269
+msgid "Order"
+msgstr "Sortierung"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_manage.php:274
+msgid "by"
+msgstr "nach"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_manage.php:287
+msgid "Game Category"
+msgstr "Spielkategorie"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_manage.php:306
+#, php-format
+msgid "Results found: <strong>%s</strong>. Search Term: <strong>'%s'</strong>"
+msgstr "Treffer: <strong>%s</strong>. Suchbegriff: <strong>'%s'</strong>"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_manage.php:367
+msgid "Browser Your Game Catalog"
+msgstr "Spiele-Katalog"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_manage.php:410
+msgid "No games found"
+msgstr "Es wurden keine Spiele gefunden"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_manage.php:426
+msgid "10 Last Deleted Games"
+msgstr "Die zuletzt gelöschten Spiele"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/editgame.php:23
+#: Z:\wp-content\plugins\myarcadeplugin/core/editgame.php:121
+msgid "Edit Game"
+msgstr "Spiel Bearbeiten"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/editgame.php:95
+msgid "Game has been updated!"
+msgstr "Das Spiel wurde aktualisiert!"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/editgame.php:98
+msgid "Can't update the game!"
+msgstr "Spiel konnte nicht aktualisiert werden!"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/editgame.php:129
+msgid "You are about to edit a published game. Thereby, will only be able to change the score settings."
+msgstr "Du versuchst gerade ein bereits veröffentlichtes Spiel zu bearbeiten. Aus diesem Grund stehen nicht alle Bearbeitungsfunktionen zur Verfügung."
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/editgame.php:133
+msgid "Name"
+msgstr "Name"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/editgame.php:133
+#: Z:\wp-content\plugins\myarcadeplugin/core/editgame.php:166
+#: Z:\wp-content\plugins\myarcadeplugin/core/editgame.php:226
+msgid "required"
+msgstr "pflicht"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/editgame.php:148
+msgid "Game Dimensions"
+msgstr "Dimmension / Größe"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/editgame.php:152
+msgid "Game width (px)"
+msgstr "Breite (px)"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/editgame.php:155
+msgid "Game height (px)"
+msgstr "Höhe (px)"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/editgame.php:166
+msgid "Game Description"
+msgstr "Beschreibung"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/editgame.php:181
+msgid "Game Instructions"
+msgstr "Spielanleitung"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/editgame.php:196
+msgid "Game Controls"
+msgstr "Spielbedienung"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/editgame.php:211
+msgid "Tags"
+msgstr "Schlüsselwörter"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/editgame.php:226
+msgid "Category"
+msgstr "Kategorie"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/editgame.php:264
+msgid "Highscore Settings"
+msgstr "Highscore-Einstellungen"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/editgame.php:268
+msgid "Yes - This game is able to submit scores"
+msgstr "Ja, dieses Spiel unterstützt das speichern von Punkten"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/editgame.php:273
+msgid "Score Order (Highscore Type)"
+msgstr "Sortierung der Punkte"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/editgame.php:286
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:22
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:159
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:26
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:27
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:920
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:987
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:134
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:431
+msgid "Fetch Games"
+msgstr "Spiele holen"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:31
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:32
+msgid "Import Games"
+msgstr "Importieren"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:38
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:39
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1058
+msgid "Publish Games"
+msgstr "Veröffentlichen"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:49
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:50
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:360
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:184
+msgid "MyArcadePlugin Info"
+msgstr "MyArcadePlugin Information"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:188
+msgid "Total Live Games / Posts"
+msgstr "Anzahl veröffentlichter Spiele / Artikel"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:189
+msgid "Total Scheduled Games / Posts"
+msgstr "Anzahl geplanter Spiele / Artikel"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:190
+msgid "Total Draft Games / Posts"
+msgstr "Anzahl ausstehender Spiele / Artikel"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:194
+msgid "Unpublished Games"
+msgstr "Unveröffentlichte Spiele"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:196
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1066
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:413
+msgid "Post Status"
+msgstr "Post Status"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:198
+msgid "minutes schedule"
+msgstr "Minuten 'Schedule'"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:202
+msgid "Cron is "
+msgstr "Cron ist"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:204
+msgid "active"
+msgstr "aktiviert"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:204
+msgid "next schedule on"
+msgstr "nächste Veröffentlichung am"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:206
+msgid "inactive"
+msgstr "deaktiviert"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:212
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1088
+msgid "Download Games"
+msgstr "Spiele herunterladen"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:212
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:213
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:214
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:675
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:685
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:964
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1044
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1053
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1083
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1092
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1101
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1110
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1145
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1176
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1195
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1250
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1315
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1354
+msgid "Yes"
+msgstr "Ja"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:212
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:213
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:214
+msgid "No"
+msgstr "Nein"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:213
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1079
+msgid "Download Thumbnails"
+msgstr "Vorschaubilder herunterladen"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:214
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1097
+msgid "Download Screenshots"
+msgstr "Screenshots herunterladen"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:218
+msgid "Product Support"
+msgstr "Produkt-Support"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:218
+msgid "Forum"
+msgstr "Forum"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:226
+msgid "Premium Arcade Themes"
+msgstr "Premium Arcade Themes"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:233
+msgid "Sorry, can not download the feed"
+msgstr "Feed kann nicht geruntergeladen werden"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:248
+msgid "MyArcade Traffic Exchange Network"
+msgstr "MyArcade Traffic Exchange Network"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:263
+msgid "Make Extra Money"
+msgstr "Geld verdienen mit MyArcadePlugin"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:273
+msgid "Lastest MyArcadePlugin News"
+msgstr "Neueste News von MyArcadePlugin"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:285
+msgid "Lastest MyArcadeBlogThemes.com News"
+msgstr "Neueste News von MyArcadeBlogThemes.com"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:297
+msgid "Be Our Friend!"
+msgstr "Werde unser Freund!"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:300
+msgid "If you like MyArcadePlugin, become our friend on Facebook"
+msgstr "Wenn Du MyArcadePlugin magst, werde doch unser Freund auf Facebook"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:505
+msgid "Failed to create category:"
+msgstr "Kategorie konnte nicht angelegt werden:"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:522
+msgid "You have to check at least one feed category!"
+msgstr "Du musst mindestens eine Kategorie auswählen!"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:525
+msgid "Your settings have been updated!"
+msgstr "Einstellungen wurden gespeichert!"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:545
+#: Z:\wp-content\plugins\myarcadeplugin/core/addgames.php:325
+#, php-format
+msgid "The games directory '%s' must be writeable (chmod 777) in order to download games."
+msgstr "Um Spiele herunterladen zu können, muss das Verzeichnis '%s' beschreibbar sein (chmod 777)."
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:551
+#: Z:\wp-content\plugins\myarcadeplugin/core/addgames.php:335
+#, php-format
+msgid "The thumbails directory '%s' must be writeable (chmod 777) in order to download thumbnails."
+msgstr "Um Vorschaubilder oder Screenshots herunterladen zu können, muss das Verzeichnis '%s' beschreibbar sein (chmod 777)."
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:562
+#: Z:\wp-content\plugins\myarcadeplugin/core/addgames.php:345
+#, php-format
+msgid "The thumbails directory '%s' must be writeable (chmod 777) in order to download game screenshots."
+msgstr "Um Vorschaubilder oder Screenshots herunterladen zu können, muss das Verzeichnis '%s' beschreibbar sein (chmod 777)."
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:568
+msgid "You have selected a special category but not entered your Mochi Publisher ID!"
+msgstr "Es wurde eine Mochi Spezialkategorie ausgewählt, aber keine Mochi Publisher ID eingegeben!"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:573
+msgid "You have activated the Bing Translator but not entered your Application ID. In this case the translator will not work!"
+msgstr "Bing Translator wurde aktiviert, aber keine Applikations ID eingegeben. Dadurch können Übersetzungen nicht durchgeführt werden!"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:597
+msgid "Mochi Settings"
+msgstr "Mochi Einstellungen"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:604
+msgid "To be able to use all of the Mochi Media's features, a Mochi account is requred."
+msgstr "Um alle Mochi Features nutzen zu können, wird ein Mochi Benutzerkonto benötigt."
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:610
+msgid "Mochi Media Feed URL"
+msgstr "Mochi Media Feed URL"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:616
+msgid "Edit this field only if Mochi Media Feed URL has been changed!"
+msgstr "Bearbeite dieses Feld nur wenn Mochi die Adresse des Feeds ändert."
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:619
+msgid "Mochi Publisher ID"
+msgstr "Mochi Publisher ID"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:625
+msgid "Paste here your Mochi 'Publisher ID'. You will find the 'Publisher ID' on the Mochi's site under settings."
+msgstr "Füge hier Deine 'Publisher ID' ein. Diese findest Du in Deinem Mochi Account unter Settings."
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:628
+msgid "Publisher Secret Key"
+msgstr "Publisher Secret Key"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:634
+msgid "Paste here your Mochi's Publisher Secret Key. This is required if you want to use the leaderboard feature. You'll find your Secret Key on the Mochi's site under settings."
+msgstr "Füge hier Deinen 'Publisher Secret Key' ein. Dieser ist erforderlich, wenn Du Scores speichern möchtest. Publisher Secret Key findest du in Deinem Mochi Account unter Settings."
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:643
+msgid "How many Mochi games should be fetched when clicking 'Feed Games'? Leave blank if you want to feed all games (not recommended). This option only affects the manual game fetching. It is recommended to use values between 100 and 2000 to avoid server overload."
+msgstr "Wie viel Mochi Spiele sollen geholt werden wenn man auf 'Feed Games' klickt? Lasse dieses Feld lee, wenn Du alle Spiele holen möchtest (nicht empfohlen). Diese Option wirkt sich nur auf das manuelle Holen von Spielen. Es wird empfohlen diesen Wert zwischen 100 und 2000 einzustellen, um Serverüberlastung zu vermeiden."
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:646
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:316
+msgid "Filter by Tag"
+msgstr "Nach Schlüsselwort filtern"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:652
+msgid "You may choose to include games that include or exclude a tag. To exclude a tag you must preface it with a minus sign (-). For example: '-zh-cn' will exclude all chinese games or 'snow' will include only games tagged to snow."
+msgstr "Filtere Spiele anhand von Schlüsselwörtern. Um Spiele auszuschließen muss ein Minus (-) vorangestellt werden. Zum Beispiel: '-zh-cn' schließt alle chinesischen Spiele oder 'snow' holt nur Spiele die 'snow' als Schlüsselwort enthalten."
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:655
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:307
+msgid "Special Categories"
+msgstr "Spezial-Kategorien"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:660
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:309
+msgid "All Games"
+msgstr "Alle Spiele"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:661
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:310
+msgid "Premium Games"
+msgstr "Premium Games"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:662
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:311
+msgid "Coin Enabled Games"
+msgstr "Coin Enabled Games"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:663
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:312
+msgid "Featured Games"
+msgstr "Featured Games"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:664
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:313
+msgid "Leaderboard Games"
+msgstr "Leaderboard Games"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:667
+msgid "Select a special category if you want to feed only featured, coin enabled, leaderboeard or premium games. If you use this feature, you have to enter a valid Publisher ID."
+msgstr "Wähle eine Spezialkategorie aus, um nur Premium, Featured oder andere Spiele zu holen. Um dieses Feature nutzen zu können, muss eine gültige Mochi Publisher ID eingetragen werden."
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:671
+msgid "Enable Global Mochi Scores"
+msgstr "Globale Mochi Scores einschalten"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:677
+msgid "Check this if you want to display global scores of a game and not just those submitted to your site."
+msgstr "Aktiviere dies, wenn Du globale Mochi Scores auf Deiner Seite anzeigen möchtest."
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:681
+msgid "Mochi Auto Game Feeding (Cron)"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:687
+msgid "Enable this if you want to fetch Mochi Media games automatically. Go to 'General Settings' to select a cron interval."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:691
+msgid "Mochi Auto Post / Cron Game Status"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:697
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1072
+msgid "Draft"
+msgstr "Ausstehend"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:698
+msgid "Add To Database (don't publish)"
+msgstr "Zur Datenbank hinzufügen (nicht veröffentlichen)"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:701
+msgid "Select a status for games added through Mochi Auto Post or Cron Fetching."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:705
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:930
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:997
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1027
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1321
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1424
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:799
+msgid "Playtomic Settings"
+msgstr "Playtomic Einstellungen"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:806
+msgid "Playtomic offers you a lot of high quality games for your site."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:813
+msgid "Playtomic Feed URL"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:819
+msgid "Edit this field only if Playtomic Feed URL has been changed!"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:822
+msgid "Languages"
+msgstr "Sprache"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:854
+msgid "Select game languages that you want to fetch from Playtomic."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:857
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:365
+msgid "Audience"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:865
+msgid "Select audience rating if want to limit game to a specific user group."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:868
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:372
+msgid "Advertisement"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:873
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:887
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:902
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:374
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:382
+msgid "Any"
+msgstr "Alle"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:874
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:375
+msgid "No Ads"
+msgstr "Ohne Werbung"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:875
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:376
+msgid "Mochi Ads"
+msgstr "Mochi Werbung"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:876
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:377
+msgid "CPMStar Ads"
+msgstr "CPMStar Werbung"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:879
+msgid "Select the kind of adverstisement the fetched games should have. If you want games without ads then select 'No Ads'."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:882
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:380
+msgid "Leaderboards"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:888
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:903
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:383
+msgid "None"
+msgstr "Keine"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:889
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:384
+msgid "Playtomic"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:890
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:904
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:385
+msgid "Gamersafe"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:891
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:386
+msgid "Mochi Media"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:894
+msgid "Select the leaderboeard types. Recommended: Mochi Media!"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:897
+msgid "Microtransactions"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:905
+msgid "MochiCoins"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:908
+msgid "Select the kind of microtransactions."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:911
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:362
+msgid "Minimum Rating"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:917
+msgid "Playtomic calculates an engagement rating for all games which is a score out of 100 for how fun the game is according to actual player data. A rating of 90 or more is an excellent game but you will get fewer games. 70 or more is a great game. 50 or more is a good game. Below 50 many nor be very good."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:926
+msgid "How many Playtomic games should be fetched at once. It is recommended to use values between 100 and 2000 to avoid server overload."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:939
+msgid "FlashGameDistribution Settings"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:946
+msgid "FlashGameDistribution has over 10.000 games that you can add to your site with ease."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:951
+msgid "FlashGameDistribution Feed URL"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:957
+msgid "Edit this field only if FlashGameDistribution Feed URL has been changed!"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:960
+msgid "Auto Post"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:966
+msgid "Check this if you want to allow FlashGameDistribution directl game posting on your site. When FlashGameDistribution publish a new game it will be automatically added to your site. If you enable this feature, your must enter your CID and your Access Hash."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:969
+msgid "Client ID"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:975
+msgid "Paste here your client ID (CID). You can find your CID under the 'Manage API' section of the FlashGameDistribution website."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:978
+msgid "Access Hash"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:984
+msgid "Paste here your access hash. You should keep this hash secret ant not visible to the public."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:993
+msgid "How many FlashGameDistribution games should be fetched at once."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1006
+msgid "Kongregate Settings"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1013
+msgid "Kongegrate provides sponsored game XML feed."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1018
+msgid "Kongregate Feed URL"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1024
+msgid "Edit this field only if Kongregate Feed URL has been changed!"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1036
+msgid "General Settings"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1041
+msgid "Save User Scores"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1046
+msgid "Check this if you want to show and store user scores. Only scores from Mochi and IBPArcade games will be saved."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1049
+msgid "Save Only Highscores"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1055
+msgid "Check this if you want to save only the highest score that an user has achieved per game. Otherwise all submitted scores will be saved."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1063
+msgid "How many games should be published when clicking on \"Pulish Games\"?"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1071
+msgid "Scheduled"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1074
+msgid "Schedule Time"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1076
+msgid "Choose how the games should be added as new posts. If you whish to schedule game publishing, then set a time between two posts in minutes."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1085
+msgid "Should the game thumnails be downloaded to your web server? Make sure that the thumb directory (wp-content/thumbs/) is writeable."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1094
+msgid "Should the games be downloaded to your web server? Make sure that the games directory (wp-content/games/) is writeable."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1103
+msgid "Should the game screenshots be downloaded to your web server? Make sure that the thumb directory (wp-content/thumbs/) is writeable."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1106
+msgid "Delete Game Files"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1112
+msgid "This option will delete downloaded game files after deleting a game post from your blog. Make sure that the games and thumbs directories are writeable! Keep in mind that deleted games can not be re-published!"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1115
+msgid "Auto Game Feeding (Cron)"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1120
+msgid "Hourly"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1121
+msgid "Twice Daily"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1122
+msgid "Daily"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1125
+msgid "Choose a time interval, how often new games should be fetched. The fetching will trigger when someone visits your site, if the scheduled time has passed. On each trigger MyArcadePlugin Pro will get the latest game (one game per trigger)."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1128
+msgid "Game Categories To Feed"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1138
+msgid "Select game categories that should be fetched."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1141
+msgid "Create Categories"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1147
+msgid "Check this if you want to create selected categories on your blog."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1151
+msgid "Parent Category"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1155
+msgid "No Parent Category"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1165
+msgid "This option will create game categories as subcategories in the selected category."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1165
+msgid " This option is usefull if you have a mixed site and not only a pure arcade site."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1171
+msgid "Use Only The First Category"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1178
+msgid "Many Mochi and HeyZap games are tagged to more than one category. Activate this option to avoid game publishing in more than one category."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1182
+msgid "Max. Game Width (optional)"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1188
+msgid "Max. allowed game width in px. If set the function get_game will create an output code with adjusted game dimensions."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1191
+msgid "Publish In A Single Category"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1206
+msgid "This option will publish all games only in the selected category."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1206
+msgid "This option is usefull if you have a mixed site and not only a pure arcade site."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1209
+msgid "Embedd Flash Code"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1214
+msgid "Manually"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1215
+msgid "At The Top Of A Game Post"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1216
+msgid "At The Bottom Of A Game Post"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1219
+msgid "Select if MyArcadePlugin Pro should auto embed the flash code in your game posts (only if you don't use FunGames theme)."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1222
+msgid "Game Post Template"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1226
+msgid "Activate Post Template"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1231
+msgid "Use this template to style the output of MyArcadePlugin Pro when creating game posts (only if you don't use FunGames theme)."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1233
+msgid "Available Variables"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1234
+msgid "Show the game title"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1235
+msgid "Show all game tags"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1236
+msgid "Show the game thumbnail"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1237
+msgid "Show game description"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1238
+msgid "Show game instructions if available"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1245
+msgid "Allow Users To Post Games"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1252
+msgid "Activate this if you want to give your users access to import games. WordPress supports following user roles: Contributor, Author and Editor. Games added by Contributors will be saved as drafts! Authors and Editors will be able to publish games."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1258
+msgid "Guest Plays"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1265
+msgid "Set, how many games a guest can play before he needs to register. Set to 0 to deactivate the game play check."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1271
+msgid "Guest Message"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1278
+msgid "Enter the message here that a guest should see after X plays (HTML allowed)."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1284
+msgid "Post Type"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1304
+msgid "Select a post type you want to use with MyArcadePlugin. If you want to use a custom post type then you will need to create it before you can make a selection. The easiest way to create a custom post type is to use a plugin like 'Custom Post Type UI'."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1310
+#, fuzzy
+msgid "Featured Image"
+msgstr "Featured Games"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1317
+msgid "Activate this option if you want that MyArcadePlugin attach game thumbnails to the created post as featured image. <strong>Use this only if you don't use a pure Arcade theme!</strong>"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1330
+msgid "Translation Settings"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1337
+msgid "Translate games automatically to your language using the Bing Translation API. The translation is triggered when you click on 'Publish Games' or 'Publish'."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1341
+msgid "Translation service is in beta status."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1349
+msgid "Enable Translator"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1356
+msgid "Check this if you want to enable the translator."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1362
+msgid "Application ID"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1369
+msgid "To be able to use Bing Translation API you will need to login at Bing with your WindowsLive Account, create a new application and get the application ID. Create a new aplication here: <a href='http://www.bing.com/developers/createapp.aspx' target='_blank'>Bing Developer</a>"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1373
+msgid "Target Language"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1386
+msgid "ERROR: Can't find the language file!"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1390
+msgid "Select the target language."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1394
+msgid "Game Fields To Translate"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1403
+msgid "Select game fields that you want to translate."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1407
+msgid "Game Types To Translate"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1419
+msgid "Select game types you want to translate."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1433
+msgid "Category Mapping"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1440
+msgid "Map Mochi, HeyZap, Playtomic and Kongegrate categories to your own category names. This feature allows you to publish games in translated or summarized categories instead of using the predefined category names. (optional)"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1446
+msgid "Feed Category"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1447
+msgid "Blog Category"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1448
+msgid "Add Mapping"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1449
+msgid "Current Mappings"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1549
+msgid "The changes in this section are saved automatically."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1583
+msgid "Advanced Features"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1590
+msgid "Please, use this only if you know what you do!"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1596
+msgid "Delete All Feeded Games"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1601
+msgid "Reset Feeded Games"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1605
+msgid "Attention! All feeded or imported games will be deleted from the games database! Published posts will not be touched. After this score submitting of publiished games will stop working!"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1608
+msgid "Remove Games Marked as 'deleted'"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1613
+msgid "Remove 'deleted' Games"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1617
+msgid "Attention! All games marked as 'deleted' will be removed from the database!"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1621
+msgid "Delete Blank / Zero Scores"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1626
+msgid "Delete Zero Scores"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1630
+msgid "Clean your scores table. This will delete all zero and empty scores if present in your database."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1633
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1638
+msgid "Delete All Scores"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1642
+msgid "Attention! All saved scores will be deleted!"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1718
+msgid "An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcade_admin.php:1723
+msgid "An unknown error occurred"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/addgames.php:367
+msgid "Games To Blog"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/addgames.php:398
+msgid "Hmmm, there are no games that can be added to your blog..."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/addgames.php:421
+msgid "Categories: "
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/addgames.php:467
+msgid "Downloading Thumbnail.."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/addgames.php:488
+#: Z:\wp-content\plugins\myarcadeplugin/core/addgames.php:532
+#: Z:\wp-content\plugins\myarcadeplugin/core/addgames.php:565
+#: Z:\wp-content\plugins\myarcadeplugin/core/addgames.php:584
+msgid "Failed"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/addgames.php:488
+msgid "Using the thumbnail from the Mochi-URL.."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/addgames.php:492
+#: Z:\wp-content\plugins\myarcadeplugin/core/addgames.php:528
+#: Z:\wp-content\plugins\myarcadeplugin/core/addgames.php:577
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:524
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:548
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:612
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:636
+msgid "OK"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/addgames.php:496
+msgid "Use Mochi thumbnail url.."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/addgames.php:509
+#, php-format
+msgid "Downloading Screenshot Nr. %s:"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/addgames.php:565
+#: Z:\wp-content\plugins\myarcadeplugin/core/addgames.php:577
+#: Z:\wp-content\plugins\myarcadeplugin/core/addgames.php:584
+msgid "Game download:"
+msgstr "Spiel download:"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/addgames.php:565
+#: Z:\wp-content\plugins\myarcadeplugin/core/addgames.php:584
+msgid "Ignore this game.."
+msgstr "Ignoriere dieses Spiel..."
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/addgames.php:659
+msgid "No new games to add. Feed Games first!"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/import.php:81
+#, php-format
+msgid "Import of '%s' was succsessful."
+msgstr "'%s' wurde erfolgreich importiert."
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/import.php:84
+msgid "Can't import that game..."
+msgstr "Spiel konnte nicht importiert werden..."
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/import.php:93
+msgid "Import Individual Games"
+msgstr "Importiere individuelle Spiele"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/import.php:99
+msgid "Import Method"
+msgstr "Import-Methode"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/import.php:104
+msgid "Upload / Grab SWF or DCR game"
+msgstr "SWF oder DCR Spiel"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/import.php:105
+msgid "Upload IBPArcade game"
+msgstr "IBPArcade Spiel"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/import.php:106
+msgid "Upload PHPBB / ZIP game"
+msgstr "PHPBB / ZIP Spiel"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/import.php:107
+msgid "Import Embed / Iframe game"
+msgstr "Embed / Iframe Spiel"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/import.php:110
+msgid "Choose a desired import method."
+msgstr "Wähle gewünschte Import-Methode aus."
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:27
+msgid "<strong>WARNING!</strong> Can't set value for: "
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:28
+msgid "If MyArcadePlugin Pro doesn't work properly, please contact your administrator to increase the value of "
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:29
+msgid "to"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:50
+msgid "WARNING!"
+msgstr "WARNUNG!"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:50
+msgid "Can't make needed settins, because you have Safe Mode active."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:71
+#, php-format
+msgid "You need at least PHP %s to run this plugin."
+msgstr "Du benötigst mindestens PHP Version %s, um dieses Plugin verwenden zu können."
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:73
+#, php-format
+msgid "You have %s installed."
+msgstr "Du hast Version %s installiert."
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:75
+msgid "Contact your administrator to update your PHP version."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:79
+msgid "JSON Support is disabeld in your PHP configuration. Please contact your administrator to activate JSON Support."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:296
+msgid "Select a game distributor"
+msgstr "Einen Spiele-Distributor auswählen"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:323
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:393
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:416
+msgid "Latest Games"
+msgstr "Neueste Spiele"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:326
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:396
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:419
+msgid "Use Offset"
+msgstr "Verwende Offset"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:408
+msgid "There are no Kongregate specific settings available. Just Fetch the games :)"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:492
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:582
+msgid "Your Feed URL"
+msgstr "Deine Feed URL"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:497
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:587
+msgid "Downloading feed"
+msgstr "Feed herunterladen"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:506
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:596
+msgid "ERROR"
+msgstr "FEHLER"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:515
+msgid "Feed not found. Please check Mochi Feed URL and your Publisher ID!"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:528
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:616
+msgid "Can't download feed!"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:539
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:627
+msgid "Decode feed"
+msgstr "Feed dekodieren"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:563
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:641
+msgid "Failed to decode the downloaded feed!"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:604
+msgid "Feed not found. Please check Kongregate Feed URL!"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:842
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:1086
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:1247
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:1427
+#, php-format
+msgid "Found %s new game(s)."
+msgstr "Neue Spiele gefunden: %s"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:843
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:1087
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:1248
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:1428
+msgid "Now, you can publish new games on your site."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:846
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:1090
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:1251
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:1431
+msgid "No new games found!"
+msgstr "Es wurden keine Spiele gefunden!"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:1090
+msgid "Please wait until Kongregate updates the feed."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/fetch.php:1431
+msgid "Try to increase the number of 'Feed Games' at the settings page or wait until Mochi updates the feed."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:4
+msgid "Upload / Grab SWF or DCR Games"
+msgstr "SWF oder DCR Spiel hochladen / holen"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:5
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:54
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:102
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:146
+msgid "Game Files"
+msgstr "Spiel-Dateien"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:14
+msgid "Game File"
+msgstr "Spiel-Datei"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:17
+msgid "Important: add a game file first before you do anything else."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:21
+msgid "Select a game file from your local computer (swf or dcr)."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:22
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:70
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:118
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:194
+msgid "Local File:"
+msgstr "Lokale Datei:"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:27
+msgid "<strong>OR</strong> paste a url to a game file that should be grabbed from the net (swf or dcr)."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:28
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:76
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:124
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:200
+msgid "URL:"
+msgstr "URL:"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:34
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:82
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:130
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:206
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:289
+msgid "Start Upload"
+msgstr "Upload starten"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:53
+msgid "Upload / Grab IBPArcade Games"
+msgstr "Upload / Grab IBPArcade Games"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:62
+msgid "IBPArcade TAR File"
+msgstr "IBPArcade TAR Datei"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:65
+msgid "Important: add an IBPArcade file first before you do anything else."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:69
+msgid "Select an IBPArcade file from your local computer (tar)."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:75
+msgid "<strong>OR</strong> paste a url to an IBPArcade file that should be grabbed from the net (tar)."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:101
+msgid "Upload / Grab PHPBB Games"
+msgstr "PHPBB Spiel hochladen / holen"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:110
+msgid "Import PHPBB Games / Zip File"
+msgstr "Importiere PHPBB Spiel / ZIP Datei"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:113
+msgid "Import a PHPBB Game or a zip file. The zip file should contain swf and thumbnail file."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:113
+msgid "Important: add a PHPBB file first before you do anything else."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:117
+msgid "Select a PHPBB file (zip) from your local computer."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:123
+msgid "<strong>OR</strong> paste a url to a PHPBB file (zip) that should be grabbed from the net."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:145
+msgid "Embed / Iframe Games"
+msgstr "Embed / Iframe Spiele"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:154
+msgid "Game Code"
+msgstr "Spiele-Code"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:160
+msgid "Paste here the embed or iframe code and click on 'Add Code'."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:166
+msgid "Add Code"
+msgstr "Code einfügen"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:189
+msgid "Game Thumbnail"
+msgstr "Spiel-Voschaubild"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:193
+msgid "Select a thumbnail from your local computer."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:199
+msgid "<strong>OR</strong> paste a url to a thumbnail that should be grabbed from the net."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:228
+msgid "Game Screenshots"
+msgstr "Spiel-Screenshots"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:232
+msgid "Select image files from your local computer"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:236
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:242
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:248
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:254
+msgid "Screenshot"
+msgstr "Screenshot"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:260
+msgid "<strong>OR</strong> paste image URL's that should be grabbed from the net."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:264
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:270
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:276
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:282
+msgid "Screenshot URL"
+msgstr "Screenshot URL"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:301
+msgid "Game Informations"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:326
+msgid "Enter the name of a game that should be imported!"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:350
+msgid "MyArcadePlugin Pro is able to detect dimensions automatically for many flash files but sometimes the detection is not possible. In that case you should add the dimensions manually."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:368
+msgid "Describe this game with your own words. An unique description can improve your ranking on search engines."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:385
+msgid "Write a short how to play this game."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:402
+msgid "Enter some describing tags. Separate the tags with comma (,)."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:419
+msgid "Save as draft"
+msgstr "Speichere als ausstehend"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:421
+msgid "Add to the games database (don't add as blog post)"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:448
+msgid "Select one or more categories for this game."
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/form-swfdcr.php:457
+msgid "Import Game"
+msgstr "Spiel importieren"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcadeplugin_js.php:216
+msgid "No game file added!"
+msgstr "Es wurde kein Spiel eingefügt!"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcadeplugin_js.php:220
+msgid "No thumbnail added!"
+msgstr "Es wurde kein Vorschaubild eingefügt!"
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcadeplugin_js.php:224
+msgid "Game name not set!"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcadeplugin_js.php:229
+msgid "There is no game description!"
+msgstr ""
+
+#: Z:\wp-content\plugins\myarcadeplugin/core/myarcadeplugin_js.php:243
+msgid "Select at least one category!"
+msgstr ""
+
